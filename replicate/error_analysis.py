@@ -49,7 +49,7 @@ def main():
             "attention_mask": batch[1],
             "labels": batch[3],
         }
-        model(inputs)
+        model(**inputs)
     print("done")
 
 def set_seed(seed):
