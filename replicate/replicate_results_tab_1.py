@@ -58,6 +58,25 @@ paper_results = {
     },
 }
 
+new_results = {
+    "RTE": {
+        "Standard": {},
+        "Re-init": {},
+    },
+    "MRPC": {
+        "Standard": {},
+        "Re-init": {},
+    },
+    "STS-B": {
+        "Standard": {},
+        "Re-init": {},
+    },
+    "CoLA": {
+        "Standard": {},
+        "Re-init": {},
+    },
+}
+
 for dataset in datasets:
     for method in ["standard_debiased", "reinit_debiased"]:
         test_accuracies = get_test_accs(results, dataset, method, filetype)
@@ -77,7 +96,7 @@ for dataset in datasets:
         acc_avg = np.mean(test_accuracies[-20:]) * 100
         acc_std = np.std(test_accuracies[-20:]) * 100
 
-        ttest = ttest_ind_from_stats(
+        old_ttest = ttest_ind_from_stats(
             mean1=paper_results[dataset][method_str]["mean"],
             std1=paper_results[dataset][method_str]["std"],
             nobs1=20,
@@ -86,7 +105,26 @@ for dataset in datasets:
             nobs2=20,
         )
 
-        print_str = "Dataset: " + str(dataset) + " 3 Epochs, " + method_str + ", " + str(acc_avg) + " +- " + str(acc_std) + ", p-value: " + str(ttest.pvalue)
-        if ttest.pvalue / 2 < 0.05:
+        new_results[dataset][method_str]["mean"] = acc_avg
+        new_results[dataset][method_str]["std"] = acc_std
+
+        print_str = "Dataset: " + str(dataset) + " 3 Epochs, " + method_str + ", " + str(acc_avg) + " +- " + str(acc_std) + ", p-value: " + str(old_ttest.pvalue)
+        if old_ttest.pvalue / 2 < 0.05:
             print_str += "*"
         print(print_str)
+
+        if method == "reinit_debiased":
+            new_ttest = ttest_ind_from_stats(
+                mean1=new_results[dataset]["Re-init"]["mean"],
+                std1=new_results[dataset]["Re-init"]["std"],
+                nobs1=20,
+                mean2=new_results[dataset]["Standard"]["mean"],
+                std2=new_results[dataset]["Standard"]["std"],
+                nobs2=20,
+            )
+            new_str = "pvalue: " + str(new_ttest.pvalue) + ", equivalent: "
+            if new_ttest.pvalue / 2 < 0.05:
+                new_str += str(False)
+            else:
+                new_str += str(True)
+            print(new_str)
