@@ -42,9 +42,11 @@ test_metrics = get_test_metrics()
 for dataset, ax in zip(datasets, axs):
     test_metric = test_metrics[dataset]
     test_metric = test_metric[0][test_metric[1]]
-    ax.set_title(dataset)
-    ax.set_ylabel(test_metric)
-    ax.set_xlabel("# of Random Trials")
+    ax.set_title(dataset, size=20)
+    ax.set_ylabel(test_metric, size=20)
+    ax.set_xlabel("# of Random Trials", size=20)
+    ax.tick_params(axis='x', labelsize=14)
+    ax.tick_params(axis='y', labelsize=14)
 
     if dataset == "RTE":
         ylimits = [0.5, 0.75]
@@ -71,5 +73,6 @@ for dataset, ax in zip(datasets, axs):
         std = np.array(plot_values[dataset][method]["std"])
         ax.plot(x, y, label=label, color=color)
         ax.fill_between(x, y - std, y + std, color=fillcolor, alpha=0.5)
-    ax.legend()
+    ax.legend(fontsize=20)
+fig.tight_layout()
 plt.savefig("figure_4_replicate.png")
