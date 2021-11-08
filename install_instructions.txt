@@ -1,0 +1,38 @@
+# create conda environment
+conda create --name bertfinetune
+
+# activate conda environment
+conda activate bertfinetune
+
+# ---------------------------------------------------------------------------
+# install cudatoolkit-dev for apex
+conda install -y -c conda-forge cudatoolkit-dev=11.3
+
+# install latest torch
+conda install -y pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+# ---------------------------------------------------------------------------
+
+
+
+# ---------------------------------------------------------------------------
+cd /home/jovyan/working/class_projects/nlp_11711_project/bert_finetuning_test
+git clone https://github.com/huggingface/transformers
+# checkout v2.8.0 and change setup.py to require tokenizers 0.10.3
+
+cd /home/jovyan/working/class_projects/nlp_11711_project/bert_finetuning_test/transformers
+pip install .
+# ---------------------------------------------------------------------------
+
+
+
+# install tensorboardx and tqdm and scikit learn
+conda install -y tqdm
+conda install -y tensorboardx
+conda install -y -c conda-forge scikit-learn
+
+# go to apex and install the gpu version
+cd apex
+pip install -v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
+
+
+

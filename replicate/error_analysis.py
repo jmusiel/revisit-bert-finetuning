@@ -10,24 +10,26 @@ import numpy as np
 import random
 from argparse import Namespace
 from collections import defaultdict
+import pickle
 
 logger = logging.getLogger(__name__)
 
 def main():
-    model = AutoModelForSequenceClassification.from_pretrained("/home/jovyan/working/class_projects/nlp_11711_project/revisit-bert-finetuning/replicate/bert_output/model_test/reinit_debiased/RTE/SEED0/checkpoint-last")
-    test_set_path = "/home/jovyan/working/class_projects/nlp_11711_project/bert_finetuning_test/glue/glue_data/RTE/test.tsv"
+    model = AutoModelForSequenceClassification.from_pretrained("/home/winstong/11711/finalProj/revisit-bert-finetuning/replicate/bert_output/model_test/reinit_debiased/RTE/SEED0/checkpoint-last")
+    model.eval()
+    test_set_path = "/home/winstong/11711/finalProj/glue_data/RTE/test.tsv"
 
     device = torch.device("cuda")
 
     tokenizer = AutoTokenizer.from_pretrained(
             'bert-large-uncased',
             do_lower_case=True,
-            cache_dir='/home/jovyan/working/class_projects/nlp_11711_project/bert_finetuning_test/cache',
+            cache_dir='/home/winstong/11711/finalProj/bert_cache2/',
         )
 
     args = Namespace(
         local_rank=-1,
-        data_dir='/home/jovyan/working/class_projects/nlp_11711_project/bert_finetuning_test/glue/glue_data/RTE',
+        data_dir='/home/winstong/11711/finalProj/glue_data/RTE',
         resplit_val=0,
         model_name_or_path='bert-large-uncased',
         max_seq_length=128,
@@ -42,14 +44,23 @@ def main():
     eval_sampler = SequentialSampler(eval_dataset)
     eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=64)
 
+    outputList = []
     for batch in eval_dataloader:
-        batch = tuple(t.to(device) for t in batch)
+        print("batch")
+        print(batch[3])
+        batch = tuple(t.to("cpu") for t in batch)
         inputs = {
             "input_ids": batch[0],
             "attention_mask": batch[1],
             "labels": batch[3],
         }
-        model(**inputs)
+        output = model(**inputs)
+        outlogit = output[1].detach()
+        outsoftmax = torch.softmax(outlogit, axis=1)
+        print(output)
+        print(outsoftmax)
+        outcls = np.argmax(outsoftmax, axis=1)
+        print(outcls)
     print("done")
 
 def set_seed(seed):
