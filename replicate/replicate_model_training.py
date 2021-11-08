@@ -5,9 +5,9 @@ def main():
     datasets = ["RTE", "MRPC", "STS-B", "CoLA"]
     models = ["not_debiased", "standard_debiased", "reinit_debiased"]
 
-    for seed in range(0, 50):
-        for dataset in datasets:
-            for model in models:
+    for seed in range(1):
+        for dataset in datasets[0:1]:
+            for model in models[2:]:
                 if model == "not_debiased":
                     reinit = ""
                     optimizer = "--use_bertadam"
@@ -18,7 +18,7 @@ def main():
                     reinit = "--reinit_pooler --reinit_layers 5 "
                     optimizer = "--use_torch_adamw"
 
-                output_path = "replicate/bert_output/" + str(model) + "/" + str(dataset) + "/SEED" + str(seed)
+                output_path = "replicate/bert_output/model_test/" + str(model) + "/" + str(dataset) + "/SEED" + str(seed)
 
                 bash_str = ""\
                     + "python run_glue.py "\
@@ -27,7 +27,7 @@ def main():
                     + "--per_gpu_eval_batch_size 64 --weight_decay 0 --seed " + str(seed) + " --fp16 "\
                     + "--overwrite_output_dir --do_lower_case --per_gpu_train_batch_size 32 "\
                     + "--gradient_accumulation_steps 1 --logging_steps 0 --num_loggings 10 "\
-                    + "--save_steps 0 --test_val_split " + str(optimizer) + " --cache_dir /home/jovyan/working/class_projects/nlp_11711_project/bert_finetuning_test/cache "\
+                    + "--save_steps 78 --test_val_split " + str(optimizer) + " --cache_dir /home/jovyan/working/class_projects/nlp_11711_project/bert_finetuning_test/cache "\
                     + "--num_train_epochs 3.0 --warmup_ratio 0.1 --learning_rate 2e-05 "\
                     + "--output_dir " + output_path + " "\
                     + reinit\
