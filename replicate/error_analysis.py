@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 def main():
     model = AutoModelForSequenceClassification.from_pretrained("/home/winstong/11711/finalProj/revisit-bert-finetuning/replicate/bert_output/model_test/reinit_debiased/RTE/SEED0/checkpoint-last")
-    model.eval()
+    model = model.eval()
     test_set_path = "/home/winstong/11711/finalProj/glue_data/RTE/test.tsv"
 
     device = torch.device("cuda")
@@ -45,23 +45,32 @@ def main():
     eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=64)
 
     outputList = []
+    tot_correct = 0
+    num_ex = 0
     for batch in eval_dataloader:
-        print("batch")
+        print("batch (labels, predicted, num_correct, acc)")
         print(batch[3])
         batch = tuple(t.to("cpu") for t in batch)
         inputs = {
             "input_ids": batch[0],
             "attention_mask": batch[1],
-            "labels": batch[3],
+            "token_type_ids": batch[2]
+            # "labels": batch[3],
         }
-        output = model(**inputs)
-        outlogit = output[1].detach()
-        outsoftmax = torch.softmax(outlogit, axis=1)
-        print(output)
-        print(outsoftmax)
-        outcls = np.argmax(outsoftmax, axis=1)
-        print(outcls)
+        outputs = model(**inputs)[0]
+        _, preds = torch.max(outputs, dim=1)
+        print(preds)
+        correct = torch.sum(preds == batch[3])
+        acc  = correct / preds.shape[0]
+        tot_correct += correct
+        num_ex += preds.shape[0]
+        print(correct)
+        print(acc)
     print("done")
+    print(tot_correct)
+    print(num_ex)
+    print(tot_correct / num_ex)
+
 
 def set_seed(seed):
     random.seed(seed)
