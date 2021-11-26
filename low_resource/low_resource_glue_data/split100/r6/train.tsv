@@ -1,0 +1,101 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+99	99	main-captions	MSRvid	2012test	144	none	none	A woman is peeling a potato.	A man is slicing potato.	2.4
+285	285	main-captions	MSRvid	2012test	427	none	none	Two zebras are playing.	Zebras are socializing.	4.25
+2578	2587	main-news	MSRpar	2012test	227	none	none	The rate of skin cancer has tripled since the 1950s in Norway and Sweden, according to the study.	The study also found that skin cancer nearly tripled in Norway and Sweden since the 1950s.	4.75
+1607	1607	main-captions	images	2015	339	none	none	An infant sitting on a cot reaching over to touch the face of an older boy.	A boy who seems ill is being touched in the face by a toddler.	2.2
+5469	5512	main-news	headlines	2015	1404	none	none	Ehud Olmert, former Israeli prime minister, sentenced to six years in jail for corruption	Ehud Olmert sentenced to six years in Israel	3.8
+692	692	main-captions	MSRvid	2012train	286	none	none	A man plays the keyboard with his nose.	The man is playing the piano with his nose.	4.4
+761	761	main-captions	MSRvid	2012train	381	none	none	A man and woman are Bollywood dancing.	A man an woman are dancing in the rain.	1.667
+4978	5021	main-news	headlines	2015	166	none	none	Egypt courts hear cases against Mubarak, Islamists	Egypt court temporarily releases Mubarak over illicit gains	1.8
+5207	5250	main-news	headlines	2015	743	none	none	Tropical Storm Karen targets US Gulf Coast	Tropical Storm Karen weakens as it nears U.S. Gulf Coast	2.6
+4039	4082	main-news	headlines	2013	411	none	none	Tsunami warning: No need for SA to panic	Tsunami warning after Aceh quake	2.2
+4788	4831	main-news	headlines	2014	601	none	none	Women to face higher car insurance premiums	Women drivers to face insurance premium rise	5.0
+3488	3531	main-news	deft-news	2014	81	none	none	zabol is a town in southeastern iran.	khoramabad is a city in western iran.	1.2
+2003	2006	main-forum	deft-forum	2014	6	none	none	I am OK with MEDICAL use!	I AM OK WITH MEDICAL USE!!	5.0
+2461	2464	main-news	MSRpar	2012test	27	none	none	The Standard Edition is $15,000 per processor or $300 per named user.	The Standard Edition One is a single processor version of the Oracle Standard Edition Database.	2.5
+262	262	main-captions	MSRvid	2012test	391	none	none	A man is riding a horse.	A woman is washing a freezer.	0.0
+2100	2103	main-forum	deft-forum	2014	103	none	none	"Oh, you're such a good person!	You're such a bad person!"	1.8	
+240	240	main-captions	MSRvid	2012test	357	none	none	Butter is melting in a pan.	A man is melting butter in a pan.	3.6
+1842	1842	main-captions	images	2015	1052	none	none	A woman reads while on public transportation.	A man who has fallen asleep on public transportation.	1.6
+3681	3724	main-news	deft-news	2014	274	none	none	at the state scientific center of applied microbiology there is every kind of deadly bacteria that was studied for use in the secret biological weapons program of the soviet union.	the state scientific center of applied microbiology has been working with western scientists to convert the complex into a biomedical manufacturing site.	3.4
+4067	4110	main-news	headlines	2013	445	none	none	The Note's Must-Reads for August 1, 2012	The Note's Must Reads for Wednesday July 4, 2012	1.8
+2922	2946	main-news	MSRpar	2012test	739	none	none	Oracle shares were also higher, trading up 12 cents at $13.60.	Shares of Redwood Shores-based Oracle rose 14 cents to $13.62.	2.0
+78	78	main-captions	MSRvid	2012test	115	none	none	A squirrel runs around in circles.	A squirrel is moving in circles.	4.4
+5531	5574	main-news	headlines	2016	175	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	China lands Jade Rabbit robot rover on Moon	China lands robot rover on moon	4.0
+4414	4457	main-news	headlines	2014	139	none	none	Gunman Among 7 Dead After Florida Apartment Shooting	Gunman among 7 dead after Fla. apartment shootout	5.0
+5678	5721	main-news	headlines	2016	1294	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Plane Crash Site Search Called off for the Night	Tour De France Pack Sets off for Stage 15	0.0
+3310	3338	main-news	MSRpar	2012train	594	none	none	About 100 firefighters are in the bosque today, Albuquerque Fire Chief Robert Ortega said.	We were seconds away from having that happen, Albuquerque Fire Chief Robert Ortega said.	1.8
+3133	3159	main-news	MSRpar	2012train	316	none	none	The Conference Board reported its U.S. Consumer Confidence Index slipped to 83.5 in June from 83.6 in May.	The consumer-confidence index came in at 83.5 in June, down slightly from a revised 83.6 in May, the Conference Board said.	4.667
+1861	1861	main-captions	images	2015	1116	none	none	Two black dogs playing in the snow.	A black dog digs in the snow.	3.4
+225	225	main-captions	MSRvid	2012test	331	none	none	A woman is cracking eggs into a bowl.	A woman is placing skewers onto a rack.	0.6
+3805	3848	main-news	headlines	2013	123	none	none	Massive Hurricane Sandy bears down on U.S. East Coast	Hurricane Sandy gains speed, batters US east coast	4.0
+164	164	main-captions	MSRvid	2012test	241	none	none	A person is boiling noodles.	A woman is boiling noodles in water.	4.0
+2196	2199	main-forum	deft-forum	2014	199	none	none	If they were Jews, I would call them Jews.	If they were Catholics, I would call them Catholics.	2.2
+2106	2109	main-forum	deft-forum	2014	109	none	none	How long after the obliteration should the kid return to school?	How long after the obliteration should it no longer bother the kid?	3.0
+2913	2937	main-news	MSRpar	2012test	724	none	none	Comcast Class A shares were up 8 cents at $30.50 in morning trading on the Nasdaq Stock Market.	The stock rose 48 cents to $30 yesterday in Nasdaq Stock Market trading.	2.2
+59	59	main-captions	MSRvid	2012test	86	none	none	A man is eating a banana by a tree.	A man is eating a banana.	4.0
+4044	4087	main-news	headlines	2013	416	none	none	Obama and Romney focus on swing-states	Team Anna yet to decide on contesting state polls	0.4
+3817	3860	main-news	headlines	2013	139	none	none	UN security council orders global sanctions against Haqqani network in Afghanistan	UN orders global sanctions against Haqqani network	4.4
+2661	2676	main-news	MSRpar	2012test	357	none	none	The government has chosen three companies to develop plans to protect commercial aircraft from shoulder-fired missile attacks, homeland security officials announced Tuesday.	The Department of Homeland Security announced Tuesday that it has selected three companies to continue research into ways to thwart shoulder-fired missile attacks on U.S. commercial aircraft.	4.75
+2231	2234	main-forum	deft-forum	2014	234	none	none	If you want to buy $ billion in XYZ Inc. common stock, who cares?	If you want to buy a house or a SUV, again, who cares?	1.4
+1669	1669	main-captions	images	2015	511	none	none	A white dog walking in the snow.	A black and tan dog walking through the snow.	3.0
+5344	5387	main-news	headlines	2015	1073	none	none	India Ink: Image of the Day: July 2	India Ink: Image of the Day: March 4	3.0
+3865	3908	main-news	headlines	2013	196	none	none	JK Rowling launches her first adult novel	Syria launches ground assault in Aleppo	0.0
+1136	1136	main-captions	images	2014	198	none	none	A black and white cow standing in a grassy field.	A blue jay standing in a grassy field.	0.6
+244	244	main-captions	MSRvid	2012test	365	none	none	A man drove his car.	A man is driving a car.	4.25
+5448	5491	main-news	headlines	2015	1361	none	none	Bangladesh Honors Factory Victims	Retailers back Bangladesh factory safety pact	2.8
+4637	4680	main-news	headlines	2014	406	none	none	Exit polls suggest Putin ally wins Moscow vote	Exit polls shows Putin ally wins Moscow vote, Navalny cries foul	3.4
+972	972	main-captions	MSRvid	2012train	704	none	none	Someoen is cooking onions.	A man is swinging nunchucks.	0.0
+3480	3523	main-news	deft-news	2014	73	none	none	iran's nuclear projects are for peaceful purposes.	iran insists that its nuclear program is for peaceful purposes	3.6
+1916	1916	main-captions	images	2015	1253	none	none	A young girl with a pink hat on with a yellow building in the background.	A young girl in a pink dress with something in her hand.	1.8
+3893	3936	main-news	headlines	2013	231	none	none	Salvador Dali painting snatched from New York gallery	Salvador Dali painting snatched in NYC	4.6
+2832	2856	main-news	MSRpar	2012test	618	none	none	Cooley said he expects Muhammad will similarly be called as a witness at a pretrial hearing for Malvo.	Lee Boyd Malvo will be called as a witness Wednesday in a pretrial hearing for fellow sniper suspect John Allen Muhammad.	2.5
+5656	5699	main-news	headlines	2016	1169	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Hard-line Jewish leader shot in Jerusalem	Israeli leader urges calm in Jerusalem	1.0
+4239	4282	main-news	headlines	2013	662	none	none	IDF to deploy Iron Dome in Central Israel	Major snowstorm barrels down on Central Plains	0.0
+355	355	main-captions	MSRvid	2012test	528	none	none	A man is riding a horse and jumping over obstacles.	A man is kicking a soccer ball.	0.333
+1461	1461	main-captions	images	2014	690	none	none	A kitchen sink and countertop with bowls on shelves.	A small kitchen with items stacked on the shelves and on the counter.	3.8
+2852	2876	main-news	MSRpar	2012test	648	none	none	The parents want her kept alive; her husband says she never wanted to be kept alive artificially.	Michael Schiavo has argued that his wife never wanted to be kept alive artificially.	2.8
+3954	3997	main-news	headlines	2013	308	none	none	Clinton warns Kenya of cost of election violence	Clinton warns Kenya on repeat of 2007 vote chaos	2.8
+1207	1207	main-captions	images	2014	310	none	none	a jockey riding a horse.	A jockey riding a horse in a pen.	3.8
+4738	4781	main-news	headlines	2014	540	none	none	12 killed, 25 injured in bomb blast in NW Pakistan	6 killed, 12 injured in blast in NW Pakista	2.6
+1138	1138	main-captions	images	2014	201	none	none	A women sitting in a chair at Christmas holding make up.	A train sitting on the tracks in a train yard.	0.0
+3589	3632	main-news	deft-news	2014	182	none	none	wen states that the main purpose of the germany visit is to advance trade, economic and technological exchanges.	wen stated that the purpose of his visit to germany is to advance trade, economic and technological exchanges.	4.8
+1030	1030	main-captions	images	2014	46	none	none	Three young women standing in a room together.	Two Indian women with two Indian girls near the water.	0.4
+3009	3033	main-news	MSRpar	2012train	114	none	none	ISRAELI soldiers knocked down empty mobile homes and water towers in 10 tiny West Bank settlement outposts overnight as part of a US-backed Mideast peace plan.	Israeli soldiers began tearing down settlement outposts in the West Bank yesterday - an Israeli obligation under a new Mideast peace plan.	3.8
+4356	4399	main-news	headlines	2014	64	none	none	Thai protesters break into army headquarters	Thai protesters storm army headquarters	4.6
+1362	1362	main-captions	images	2014	533	none	none	A close-up view of a horse's head.	A side view of a horse's head.	3.2
+342	342	main-captions	MSRvid	2012test	511	none	none	A dog is playing in the snow.	A dog is pawing at a fly in the carpet before it.	1.6
+3747	3790	main-news	headlines	2013	49	none	none	Mali's Tuareg rebels declare independence	Mali rebels declare independent 'Azawad'	3.8
+2223	2226	main-forum	deft-forum	2014	226	none	none	Would you like to pay for others health care?	Would you like to wear your seatbelt?	0.0
+438	438	main-captions	MSRvid	2012test	657	none	none	Two Sumo ringers are fighting each other.	A man rides a water toy in the water.	0.0
+5310	5353	main-news	headlines	2015	987	none	none	Venezuelan president to visit China	Senegalese president to visit China	1.8
+1012	1012	main-captions	images	2014	17	none	none	A kid jumping a ledge with a bike.	A black and white cat playing with a blanket.	0.0
+4655	4698	main-news	headlines	2014	433	none	none	What is the nuclear option?	Photos show N. Korea nuclear readiness	1.2
+3653	3696	main-news	deft-news	2014	246	none	none	the part of the purpose of the united states plan is to increase pressure on north korea.	the united states and the allies of the united states believe iran is pursuing nuclear arms.	0.8
+4695	4738	main-news	headlines	2014	484	none	none	Death toll from west Chinas violence rises to 35	Urgent: Death toll from NE China fire rises to 112	1.2
+1576	1576	main-captions	images	2015	240	none	none	A man in a blue shirt is running in a stadium field.	A man wearing a blue hat and shirt is riding a white horse.	1.0
+5668	5711	main-news	headlines	2016	1252	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Oscar Pistorius sentenced to 5 years in prison	'Bookkeeper of Auschwitz' Sentenced to Four Years in Prison	0.0
+2050	2053	main-forum	deft-forum	2014	53	none	none	It depends how you define extreme.	"Depends on how you define ""extreme""."	5.0
+2081	2084	main-forum	deft-forum	2014	84	none	none	Does he have supporters?	He definently has supporters.	2.0
+2364	2367	main-forum	deft-forum	2014	367	none	none	Ha, ha, ha, ha, ha, ha!	Ah ha, ha, ha, ha, ha!	5.0
+3316	3344	main-news	MSRpar	2012train	603	none	none	The witness, a 27-year-old Kosovan parking attendant with criminal convictions for dishonesty, was paid 10,000 by the News of the World.	The witness was a 27-year-old Kosovan parking attendant, who was paid by the News of the World, the court heard.	3.625
+2958	2982	main-news	MSRpar	2012train	45	none	none	Consumers still would have to get a descrambling security card from their cable operator to plug into the set.	To watch pay television, consumers would insert into the set a security card provided by their cable service.	3.4
+3682	3725	main-news	deft-news	2014	275	none	none	the international atomic energy agency has no access to people, documents, sites.	the international atomic energy agency is based in	1.2
+1671	1671	main-captions	images	2015	516	none	none	A boy goes down an inflatable slide.	A boy in red slides down an inflatable ride.	3.8
+4930	4973	main-news	headlines	2015	48	none	none	German envoy optimistic about Iran-G5+1 talks	Iran 'cautiously optimistic' about future nuclear talks	1.4
+4815	4858	main-news	headlines	2014	632	none	none	US Senate confirms Yellen as Fed's next chair	US Senate Confirms Janet Yellen as New Central Bank Chief	4.2
+1086	1086	main-captions	images	2014	118	none	none	A silver bicycle is parked in a living room.	A bicycle in a dining room.	2.4
+3677	3720	main-news	deft-news	2014	270	none	none	a statement issued by the official spa news agency stated that-- al-dosari was convicted of drug trafficking.	the rapist was identified as hossein safarlou and had also been convicted of drug trafficking.	0.6
+971	971	main-captions	MSRvid	2012train	703	none	none	The girl is tiding up her bed.	A woman is making a bed.	2.5
+4253	4296	main-news	headlines	2013	680	none	none	Egypt's Mubarak critical	Egypt's Mubarak in critical condition	4.6
+3792	3835	main-news	headlines	2013	107	none	none	Halliburton 1Q income rises 23 pct	Halliburton Q1 profits rise on strong North America sales	2.6
+2599	2608	main-news	MSRpar	2012test	256	none	none	Their contract will expire at 12:01 a.m. Wednesday instead of 12:01 a.m. Sunday, said Rian Wathen, organizing director for United Food and Commercial Workers Local 700.	It has outraged the membership, said Rian Wathen, organizing director of United Food and Commercial Workers Local 700.	2.5
+2180	2183	main-forum	deft-forum	2014	183	none	none	this is NOT a war deployment.	its not an official deployment.	2.4
+2603	2612	main-news	MSRpar	2012test	262	none	none	"Prince is replacing Sanford ""Sandy"" Weill, who will remain Citigroup's chairman."	Prince, who heads Citigroup's global corporate and investment bank, is replacing Sanford Weill as CEO.	3.0
+4022	4065	main-news	headlines	2013	393	none	none	Police 'did not link' Savile claims	BBC faces questions for pulling Savile case	1.2
+454	454	main-captions	MSRvid	2012test	687	none	none	A man is slicing a pepper.	A person cuts a big green pepper apart.	3.8
+1193	1193	main-captions	images	2014	286	none	none	A black and white cow standing in a grassy field.	A black and white horned cow standing in a field.	4.0
+1434	1434	main-captions	images	2014	644	none	none	Two young women shear a sheep.	Two women sheering a sheep.	4.4
+549	549	main-captions	MSRvid	2012train	84	none	none	A group of people are marching in place.	A group of people are dancing in concert.	1.7
+1836	1836	main-captions	images	2015	1037	none	none	Two constructions workers sit on a beam taking a break.	The man is putting on his shirt near an elevator.	0.0
+2191	2194	main-forum	deft-forum	2014	194	none	none	Bienging is unaccptable.	Being drunk is unacceptable.	1.0

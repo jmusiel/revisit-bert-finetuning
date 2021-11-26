@@ -1,0 +1,11 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+4754	4797	main-news	headlines	2014	559	none	none	Syria car bomb kills at least 12 in rebel-held town	Sinai car bomb kills at least 10 Egyptian soldiers	1.8
+4627	4670	main-news	headlines	2014	395	none	none	19 hurt in New Orleans shooting	Police: 19 hurt in NOLA Mother's Day shooting	4.2
+4946	4989	main-news	headlines	2015	88	none	none	Nobel author Doris Lessing dies at 94	Nobel laureate Doris Lessing dies at 94	5.0
+2275	2278	main-forum	deft-forum	2014	278	none	none	Why are Russians in Damascus?	Russians in Damascus!	4.2
+3613	3656	main-news	deft-news	2014	206	none	none	santos stated colombian police found the evidence in 2 computers discovered with slain rebel leader raul reyes.	francisco santos stated that colombian police found the evidence on two computers discovered with raul reyes.	4.0
+2967	2991	main-news	MSRpar	2012train	56	none	none	Excluding the charges, analysts, on average, expected a loss of 11 cents a share.	Analysts polled by Thomson Financial First Call had been expected to see a loss of about 11 cents a share from continuing operations.	3.8
+2317	2320	main-forum	deft-forum	2014	320	none	none	YOU FOOLS..bought the  cover-up..hook..	Hi Eots: YOU FOOLS..bought the  cover-up..hook..	4.2
+4	4	main-captions	MSRvid	2012test	9	none	none	A man is playing the cello.	A man seated is playing the cello.	4.25
+5702	5745	main-news	headlines	2016	1465	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Dozens of Egyptians hostages taken by Libyan terrorists as revenge for airstrikes	Egyptian boat crash death toll rises as more bodies found in Nile	0.0
+392	392	main-captions	MSRvid	2012test	594	none	none	A person is adding food in a pan.	A woman puts rice into a pan.	3.0

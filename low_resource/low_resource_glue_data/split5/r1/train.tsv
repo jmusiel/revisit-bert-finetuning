@@ -1,0 +1,6 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+4936	4979	main-news	headlines	2015	60	none	none	Palestinian prisoners arrive at Muqata in Ramallah	Pakistani prisoner assaulted in Jammu jail	1.0
+3113	3139	main-news	MSRpar	2012train	280	none	none	Seven 20- and 21-year-old cadets were ticketed by police for drinking alcohol in an off-campus hotel room early Saturday with two young women, aged 16 and 18.	Seven 20- and 21-year-old male cadets were caught in an off-campus hotel room early Saturday with two female teens, 16 and 18 years.	3.2
+1199	1199	main-captions	images	2014	295	none	none	A woman posing in front of an apartment building in the snow.	White bus parked in grass in front of building.	0.0
+3771	3814	main-news	headlines	2013	81	none	none	1 person killed in sectarian clashes in Lebanon	180 killed in Iran earthquake	0.0
+1371	1371	main-captions	images	2014	547	none	none	A gray cat with green eyes looks at the camera.	A grey cat with green eyes looking into the camera.	5.0

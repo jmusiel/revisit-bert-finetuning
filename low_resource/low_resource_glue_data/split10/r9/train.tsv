@@ -1,0 +1,11 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+5469	5512	main-news	headlines	2015	1404	none	none	Ehud Olmert, former Israeli prime minister, sentenced to six years in jail for corruption	Ehud Olmert sentenced to six years in Israel	3.8
+4384	4427	main-news	headlines	2014	102	none	none	Two Santa trackers competing this Christmas	Spain turning back the clock on siestas	0.0
+947	947	main-captions	MSRvid	2012train	667	none	none	Someone is scratching an animals belly.	A woman is stroking a lemur.	2.0
+2436	2439	main-forum	deft-forum	2014	439	none	none	Do you notice the nonsensical things you are saying?	And to be fair, do you notice the nonsensical things you are saying?	4.57142857142857
+1733	1733	main-captions	images	2015	705	none	none	A black and white dog swimming in the pool	A black and white dog running with something in his mouth.	2.0
+270	270	main-captions	MSRvid	2012test	402	none	none	A person is cutting some burrata cheese.	The person is slicing cheese.	3.8
+1755	1755	main-captions	images	2015	777	none	none	A black dog is running through the snow.	A black pit bull dog is running through the dirt.	2.2
+2867	2891	main-news	MSRpar	2012test	666	none	none	But she didn't say whether she'll certify the two-year $117.4 billion budget for 2004-05.	She said she didn't know yet whether she would certify the budget.	3.167
+125	125	main-captions	MSRvid	2012test	185	none	none	The people got off the train.	The people got off the train at the station.	4.0
+11	11	main-captions	MSRvid	2012test	18	none	none	A woman picks up and holds a baby kangaroo.	A woman picks up and holds a baby kangaroo in her arms.	4.6

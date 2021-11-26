@@ -1,0 +1,11 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+2894	2918	main-news	MSRpar	2012test	698	none	none	Treasurys long-range plan is to provide retail buyers of all Treasury securities the ability to manage their holdings online in a single account.	The Treasury said wants to give retail buyers of all Treasury securities the ability eventually to manage holdings online in a single account.	4.4
+599	599	main-captions	MSRvid	2012train	154	none	none	A Woman is eating.	A animal is eating.	1.6
+1742	1742	main-captions	images	2015	738	none	none	A white and brown dog playing with a black toy.	A white and brown dog is playing tug-o-war.	3.4
+1108	1108	main-captions	images	2014	149	none	none	A group of river barges with trees in the background.	A young girl wearing a bike helmet with a bicycle in the background.	0.4
+2135	2138	main-forum	deft-forum	2014	138	none	none	I guess I pulled it out of the census's rear end in a top hat.	Does the census have an rear end in a top hat?	2.6
+1689	1689	main-captions	images	2015	562	none	none	The large brown dog is jumping through the tall grass.	The girl wearing a blue shirt is running through a science center.	0.0
+565	565	main-captions	MSRvid	2012train	104	none	none	A man is playing a guitar.	A woman is playing a flute.	1.8
+4878	4921	main-news	headlines	2014	711	none	none	U.S. drone strike kills 5 in Pakistan	Pakistan drone strike kills up to six	3.0
+1582	1582	main-captions	images	2015	255	none	none	Two people are playing golf on a golf course.	Two people are on a golf course playing golf.	5.0
+4590	4633	main-news	headlines	2014	353	none	none	Dozens killed in air strike on bakery in central Syria	'Dozens killed' in Syrian air strike on bakery	5.0

@@ -1,0 +1,101 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+5267	5310	main-news	headlines	2015	891	none	none	Rio airport workers strike on eve of FIFA World Cup	Rio de Janeiro airport workers strike on eve of World Cup	5.0
+1684	1684	main-captions	images	2015	549	none	none	Man in red shorts and white shirt kicking a soccer ball.	A black dog stands in the surf holding a red rubber ball.	0.0
+3516	3559	main-news	deft-news	2014	109	none	none	arms smugglers and drug cartels must be eliminated from southeast asia.	arms smugglers and drug cartels abet terrorists.	2.8
+4378	4421	main-news	headlines	2014	94	none	none	Russia unveils $30 billion oil link to Pacific	Russia unveils $25bn oil link to Pacific	3.4
+5574	5617	main-news	headlines	2016	569	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	UN warns of plight of women, children in Syria's Homs	UNICEF calls for immediate safe access to women, children in Homs	3.0
+3962	4005	main-news	headlines	2013	318	none	none	FACTBOX-Security developments in Iraq, February 1	FACTBOX-Security developments in Pakistan, March 13	1.6
+455	455	main-captions	MSRvid	2012test	688	none	none	A woman is speaking in sign language.	A woman spices some seafood.	0.643
+4305	4348	main-news	headlines	2014	2	none	none	Weak earnings drag stocks lower	Weak earnings drag stocks lower on Wall Street	3.8
+2207	2210	main-forum	deft-forum	2014	210	none	none	Unless it's different in different countries?	So, short form, yes, it probably is different in different countries.	3.6
+2741	2765	main-news	MSRpar	2012test	475	none	none	South Africa has the world's highest caseload with 4.7 million people infected with HIV or AIDS.	With 4.7 million people infected with HIV or AIDS, South Africa has the world's highest AIDS caseload.	5.0
+826	826	main-captions	MSRvid	2012train	488	none	none	Someone is cutting a circle out of a pink sheet of paper.	Someone is pouring tomato sauce into a pot of meat.	0.2
+3203	3229	main-news	MSRpar	2012train	433	none	none	A jury convicted rapper C-Murder, also known as Corey Miller, of second-degree murder Tuesday night in the shooting death of a 16-year-old in a Jefferson Parish nightclub.	Rapper C-Murder has been convicted of second-degree murder, a crime that carries an automatic life sentence, in the shooting death of a 16-year-old inside a Jefferson Parish nightclub.	3.6
+1269	1269	main-captions	images	2014	393	none	none	A young boy coloring with a red and blue crayon.	A young blonde girl in riding gear sits on top of a gray and white horse.	0.0
+5003	5046	main-news	headlines	2015	223	none	none	China stock index futures close lower -- April 23	China stock index futures close higher -- Dec. 4	2.2
+4671	4714	main-news	headlines	2014	453	none	none	Obama mourns death of icon Nelson Mandela	South Africans mourn, celebrate Mandela	1.8
+2237	2240	main-forum	deft-forum	2014	240	none	none	How would Martin not know that that was not the case?	How would Martin or anyone else know his intentions based on his actions?	2.4
+80	80	main-captions	MSRvid	2012test	117	none	none	A boy is singing and playing the piano.	A boy is playing the piano.	3.0
+326	326	main-captions	MSRvid	2012test	489	none	none	A woman swims underwater.	A woman is swimming.	3.8
+330	330	main-captions	MSRvid	2012test	494	none	none	A woman is resting in a floating raft.	A woman relaxes in an inner tube.	3.8
+4493	4536	main-news	headlines	2014	234	none	none	Car bomb kills one and wounds five in Benghazi	Car bomb hits Libyan Foreign Ministry in Benghazi	3.0
+891	891	main-captions	MSRvid	2012train	584	none	none	A woman shoots a shotgun.	The woman is shooting a rifle.	2.8
+5337	5380	main-news	headlines	2015	1057	none	none	Egypt court sentences 10 Brotherhood supporters to death - sources	Turkish PM tells supporters to prepare for rallies	0.2
+3674	3717	main-news	deft-news	2014	267	none	none	russia may pull out of the treaty if the us and other nato allies refuse to ratify the amended version.	warned that russia would withdraw from the treaty if western nations refuse to ratify its amended version.	4.4
+4515	4558	main-news	headlines	2014	263	none	none	Stocks soar on Wall St lead	Stocks slump on Wall Street	1.6
+1624	1624	main-captions	images	2015	384	none	none	An elderly man in a blue shirt is holding up a piece of canvas art.	A black man is walking next to a building in a big city.	0.0
+3775	3818	main-news	headlines	2013	87	none	none	No damage, tsunami after 6.6 quake hits off Indonesia's Sumatra	5.9 quake hits Indonesia s Sumatra: USGS	1.6
+73	73	main-captions	MSRvid	2012test	110	none	none	A man is playing the piano.	A man is playing the trumpet.	1.6
+2967	2991	main-news	MSRpar	2012train	56	none	none	Excluding the charges, analysts, on average, expected a loss of 11 cents a share.	Analysts polled by Thomson Financial First Call had been expected to see a loss of about 11 cents a share from continuing operations.	3.8
+3476	3519	main-news	deft-news	2014	69	none	none	abuja is the capital of	tskhinvali is the capital of georgia.	0.8
+3819	3862	main-news	headlines	2013	141	none	none	Saudi Arabia arrests suspected militants with al-Qaeda links	Saudi Arabia arrests suspected militants, state media reports	4.0
+737	737	main-captions	MSRvid	2012train	348	none	none	A man is eating bread.	A man is playing flute.	0.8
+528	528	main-captions	MSRvid	2012train	55	none	none	A person folds a tortilla.	A man folds a tortilla.	3.5
+5385	5428	main-news	headlines	2015	1184	none	none	Gunmen kill 15 Libyan soldiers	Gunmen kill 3 Lebanese troops near Syria	2.4
+4971	5014	main-news	headlines	2015	152	none	none	World's oldest man dies at 116	World's oldest ever man dies aged 116	4.6
+186	186	main-captions	MSRvid	2012test	274	none	none	An orangutan is riding a bus.	A monkey is riding on a bus.	3.6
+15	15	main-captions	MSRvid	2012test	22	none	none	A dog is trying to get bacon off his back.	A dog is trying to eat the bacon on its back.	3.75
+2400	2403	main-forum	deft-forum	2014	403	none	none	Evolution is not an opinion, not a belief.	Atomic theory is not an opinion, not a belief.	1.6
+5301	5344	main-news	headlines	2015	965	none	none	Queen visits Britain's new prince	Queen meets Britain's new baby prince	5.0
+576	576	main-captions	MSRvid	2012train	121	none	none	A man is praying.	A man is running.	0.727
+299	299	main-captions	MSRvid	2012test	445	none	none	A puppy is sliding backwards along the floor.	A puppy is pushing itself backwards.	3.8
+4905	4948	main-news	headlines	2014	741	none	none	Kenyan forces caused mall collapse	Official says Kenyan forces caused mall collapse	5.0
+3337	3365	main-news	MSRpar	2012train	634	none	none	Stanford (46-15) plays South Carolina (44-20) today in a first-round game at Rosenblatt Stadium in Omaha, Neb.	Stanford (46-15) plays South Carolina (44-20) on Friday in the opening game of the double-elimination tournament.	3.333
+3650	3693	main-news	deft-news	2014	243	none	none	putin announced that the cfe treaty does not duly protect russia's security interests.	the cfe treaty does not duly protect the russian federation's security interests.	3.6
+3136	3162	main-news	MSRpar	2012train	320	none	none	"The network is also dropping its Friday night ""Dateline"" edition."	"The network will drop one edition of ""Dateline,"" its newsmagazine franchise."	3.857
+1134	1134	main-captions	images	2014	196	none	none	A brown horse grazing in a field of green grass.	Brown horse standing in middle of grassy field.	4.0
+4147	4190	main-news	headlines	2013	549	none	none	ArQule, Daiichi stop lung cancer trial, shares tank	ArQule stock plunges as lung cancer study shelved	3.4
+1365	1365	main-captions	images	2014	538	none	none	A white plane on the runway.	A white airplane is on a runway.	4.8
+4822	4865	main-news	headlines	2014	640	none	none	US Cannot 'Conclusively Determine' Chemical Weapons Use in Syria	U.S. Sees No Conclusive Evidence of Chemical Arms Use by Syria	4.8
+1975	1975	main-captions	images	2015	1412	none	none	A surfer on a wave.	A surfer is riding a wave.	4.4
+2437	2440	main-forum	deft-forum	2014	440	none	none	What if they messed up a study?	What if they had a personal bias?	1.0
+2223	2226	main-forum	deft-forum	2014	226	none	none	Would you like to pay for others health care?	Would you like to wear your seatbelt?	0.0
+3211	3237	main-news	MSRpar	2012train	445	none	none	Several shots rang out in the darkness, but only one gator had been killed by 11 p.m.	Several shots rang out Wednesday night, but no gators were killed then.	2.4
+658	658	main-captions	MSRvid	2012train	241	none	none	A man is dangling a mouse near a snake.	A man is feeding a mice to a snake.	3.2
+3173	3199	main-news	MSRpar	2012train	392	none	none	Lowe's, with about half as many stores, reported a 33 percent increase in third-quarter profit behind a 12 percent jump in same-store sales.	Home Depot reported a 22 percent jump in third-quarter profit behind a nearly 8 percent rise in same-store sales.	1.4
+712	712	main-captions	MSRvid	2012train	312	none	none	A woman is smoking.	A woman is making some food.	0.8
+94	94	main-captions	MSRvid	2012test	136	none	none	A man is levitating.	A man is talking.	0.8
+1913	1913	main-captions	images	2015	1248	none	none	A woman sings into a microphone by a guy playing a guitar.	A woman sings into a microphone with a guitar player in the background.	4.4
+2729	2753	main-news	MSRpar	2012test	458	none	none	So far, Georgia has been returned all but $70,000 of the money it wired.	Georgia has received all but $70,000 of its money back with the help of the FBI.	3.75
+1371	1371	main-captions	images	2014	547	none	none	A gray cat with green eyes looks at the camera.	A grey cat with green eyes looking into the camera.	5.0
+4962	5005	main-news	headlines	2015	122	none	none	JAL's first order from Airbus is blow to Boeing	Japan Airlines orders 31 Airbus A350s valued at $9.5 bn	3.0
+1426	1426	main-captions	images	2014	634	none	none	photo of a television screen showing a movie.	The wall-mounted flat-screen TV is showing a movie.	3.2
+1756	1756	main-captions	images	2015	778	none	none	a group of teenagers are dancing on a wooden floor.	A group of people in dark colored clothing are line dancing on a wooden floor.	3.4
+3570	3613	main-news	deft-news	2014	163	none	none	russia already participates in the european space agency's	france is a leader in the european space agency.	1.2
+5369	5412	main-news	headlines	2015	1146	none	none	Pro-Russia rebels to hold vote in Ukraine	Syria rebels: We killed Hezbollah men in Lebanon	0.0
+466	466	main-captions	MSRvid	2012test	701	none	none	A woman peels a potato.	A woman is grilling pineapples.	1.0
+985	985	main-captions	MSRvid	2012train	724	none	none	A woman is slicing mango.	A man is putting cheese on a tortilla.	0.6
+3664	3707	main-news	deft-news	2014	257	none	none	the meeting was 3 days long.	the meetings lasted 2 days.	2.8
+5506	5549	main-news	headlines	2015	1496	none	none	South Korean President Sorry For Ferry Response	S. Korean president 'sorry' for ferry disaster	4.6
+664	664	main-captions	MSRvid	2012train	247	none	none	The men are performing on stage.	The comedic mimes performed on stage.	2.6
+4265	4308	main-news	headlines	2013	700	none	none	Red Cross says negotiating halt to fighting in Syria to take aid	Red Cross negotiating Syria ceasefire to bring aid	4.4
+1753	1753	main-captions	images	2015	773	none	none	A woman with two men in hats socializing outside.	A young woman with a knit cap stands against the wall of a Domino's Pizza.	1.4
+2548	2557	main-news	MSRpar	2012test	182	none	none	It was brazen intimidation to keep people on the reservation, said a Republican who attended but did not want to be named.	It was a brazen attempt at intimidation, said a Republican legislator who attended the meeting.	3.5
+3675	3718	main-news	deft-news	2014	268	none	none	this is particularly true in the poorest countries.	this was particularly after ethiopia withdraws its forces.	0.4
+2196	2199	main-forum	deft-forum	2014	199	none	none	If they were Jews, I would call them Jews.	If they were Catholics, I would call them Catholics.	2.2
+2112	2115	main-forum	deft-forum	2014	115	none	none	Cracklin' Rosie by Neil Diamond We are all vessels filled with many wonders.	Jingle Bell Rock by Bobby Helm We are all vessels filled with many wonders.	1.6
+3109	3135	main-news	MSRpar	2012train	274	none	none	"Is it in the food supply?"" says David Ropeik, director of risk communication at the Harvard Center for Risk Analysis."	It's not zero, said David Ropeik, director of risk communication at the Harvard Center for Risk Analysis.	1.75
+2263	2266	main-forum	deft-forum	2014	266	none	none	Breathe In, Breathe Out, Move On.	buwhahahaha Breathe In, Breathe Out, Move On.	4.4
+2489	2492	main-news	MSRpar	2012test	71	none	none	Country-music station KKCS has suspended two disc jockeys for playing songs by the Dixie Chicks in violation of a ban imposed after one group member criticized President George Bush.	A radio station has suspended two disc jockeys for locking themselves in the studio and continuously playing Dixie Chicks songs, violating the station's two-month-old ban on the group's music.	3.25
+5271	5314	main-news	headlines	2015	900	none	none	Quotes from leaders, family at Mandela memorial	World unites for Mandela memorial	2.4
+4925	4968	main-news	headlines	2015	33	none	none	Death toll from Philippine earthquake rises to 185	Death toll from Philippines quake rises to 144	3.6
+1050	1050	main-captions	images	2014	69	none	none	A tan calf with a yellow tag on his left ear looking at the camera.	A man with glasses and two plastic bottles in the foreground.	0.6
+4335	4378	main-news	headlines	2014	34	none	none	Man Who Set Himself on Fire on National Mall Dies of Injuries	Man 'who set himself ablaze' on National Mall dies	5.0
+805	805	main-captions	MSRvid	2012train	458	none	none	A cook seasons some dough.	A man is seasoning some dough in a pan.	3.75
+5440	5483	main-news	headlines	2015	1338	none	none	3 dead, 1 hurt in shooting at S Carolina oceanfront motel	4 dead, 30 injured in train collision near Moscow	0.2
+251	251	main-captions	MSRvid	2012test	376	none	none	A girl is playing a flute.	A band is playing on a stage.	1.286
+994	994	main-captions	MSRvid	2012train	741	none	none	The man is playing the wooden flute.	A little boy is vacuuming the floor.	0.0
+4496	4539	main-news	headlines	2014	237	none	none	French-led troops close in on Timbuktu	French-led troops control access to Timbuktu	3.6
+4959	5002	main-news	headlines	2015	117	none	none	Olivia Colman wins second BAFTA Award	Baftas 2013: Olivia Colman picks up two awards	4.4
+5344	5387	main-news	headlines	2015	1073	none	none	India Ink: Image of the Day: July 2	India Ink: Image of the Day: March 4	3.0
+3887	3930	main-news	headlines	2013	224	none	none	Thousands more Syrian refugees flee to Turkey overnight	8,000 Syrian refugees flee to Turkey overnight	3.8
+662	662	main-captions	MSRvid	2012train	245	none	none	A woman is firing a rifle.	A woman is cutting a lemon.	0.2
+1432	1432	main-captions	images	2014	640	none	none	Two animals sitting on a rock.	Two eagles sitting on a long branch.	1.6
+4380	4423	main-news	headlines	2014	96	none	none	Dolce and Gabbana convicted of tax evasion	Dolce and Gabbana Fined in Italian Tax Case	3.0
+398	398	main-captions	MSRvid	2012test	601	none	none	Paper is being cut with scissors.	A piece of paper is being cut.	4.0
+3202	3228	main-news	MSRpar	2012train	431	none	none	"Mr Alibek said: ""Our outcomes are very encouraging."	Our outcomes are very encouraging, George Mason researcher Ken Alibek said.	3.8
+3225	3252	main-news	MSRpar	2012train	466	none	none	Shares of Littleton, Colorado-based EchoStar rose $1.63, or 5.3 percent, to $32.26 at 10:55 a.m.	On Monday, EchoStar (DISH: news, chart, profile) shares shrank $1.40, or 4.4 percent, to $30.63.	2.0
+2299	2302	main-forum	deft-forum	2014	302	none	none	Holly Holy We are all vessels filled with many wonders.	Say What You Will We are all vessels filled with many wonders.	3.8
+5461	5504	main-news	headlines	2015	1389	none	none	World powers and Iran to resume expert nuclear talks on Dec. 30	Iran nuclear experts, world powers to resume talks next week	4.0
+1739	1739	main-captions	images	2015	722	none	none	An old man in a black trench coat standing in a marketplace.	The baby is wearing a red shirt and walking in a plaza.	1.2
+4632	4675	main-news	headlines	2014	401	none	none	Iranian president calls for new nuclear talks	Iranian minister blames West for failed nuke talks	2.0

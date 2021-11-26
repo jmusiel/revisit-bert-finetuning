@@ -1,0 +1,6 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+4832	4875	main-news	headlines	2014	652	none	none	Palestinian president assigns academic to form West Bank gov't	Palestinian president wants Israelis to talk peace	1.8
+584	584	main-captions	MSRvid	2012train	131	none	none	A woman is peeling a potato.	A woman is slicing a tomato.	1.333
+3990	4033	main-news	headlines	2013	351	none	none	Air Force Instructor Faces Sentencing for Rape	Women testify at Air Force instructor's sentencing	1.8
+3138	3164	main-news	MSRpar	2012train	324	none	none	The 51-year-old nurse worked at North York General Hospital, the epicentre of the latest outbreak.	Emile Laroza, 51, contracted SARS while working as a nurse at North York General Hospital, the epicentre of the second SARS outbreak.	3.0
+2238	2241	main-forum	deft-forum	2014	241	none	none	Regulation get the government into everything.	Get the government into everything?	2.4

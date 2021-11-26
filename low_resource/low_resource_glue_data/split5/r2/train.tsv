@@ -1,0 +1,6 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+1912	1912	main-captions	images	2015	1246	none	none	A man in a blue cap is sitting on a stool under a tree.	A dog standing on a beach with a ball nearby.	0.0
+444	444	main-captions	MSRvid	2012test	670	none	none	The rhino grazed on the grass.	A rhino is grazing in a field.	4.0
+1690	1690	main-captions	images	2015	563	none	none	Two dogs fighting in the snow.	Two dogs playing in the snow.	2.6
+5047	5090	main-news	headlines	2015	340	none	none	Israeli teens missing in West Bank	Israel finds bodies of three missing teens in West Bank	2.8
+3129	3155	main-news	MSRpar	2012train	306	none	none	Both devices implement the v1.2 standard's eSCO facility to provide the basis for new cordless telephony applications.	BlueCore3 also implements v1.2's eSCO facility to provide the basis for advanced cordless telephony applications for Bluetooth transmission.	3.25

@@ -1,0 +1,6 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+850	850	main-captions	MSRvid	2012train	520	none	none	A man is lifting weights.	A woman is exercising her abs.	1.0
+5329	5372	main-news	headlines	2015	1034	none	none	Car Bombs Kill 58 in Iraqi Capital	Car bombings kill 13 civilians in Iraqi capital	2.4
+2514	2523	main-news	MSRpar	2012test	122	none	none	After 26 hours of surgery and a year of anticipation, the boys were separated Sunday at Children's Medical Center of Dallas.	Two-year-old Egyptian twin boys, born with their heads conjoined, have been separated after 26 hours of surgery at the Children's Medical Centre in Dallas.	3.2
+3472	3515	main-news	deft-news	2014	65	none	none	iran is the most prolific applier of the death penalty in the world after china.	the islamic republic is the most prolific applier of the death penalty in the world after china.	3.8
+1235	1235	main-captions	images	2014	346	none	none	A smiling woman holding a small baby.	a woman sitting on a sofa holding a baby.	3.4

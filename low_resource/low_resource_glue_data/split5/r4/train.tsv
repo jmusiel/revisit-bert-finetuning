@@ -1,0 +1,6 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+4733	4776	main-news	headlines	2014	535	none	none	7 killed in attacks in Iraq	27 killed in attacks across Iraq	2.0
+287	287	main-captions	MSRvid	2012test	429	none	none	Some men are playing guitars.	Three men are playing guitars and singing together.	3.2
+2725	2749	main-news	MSRpar	2012test	452	none	none	AMD's chip sales jumped 7 percent year-on-year to $402 million.	Second-quarter sales grew 7 percent, to $645 million from $600 million in 2002.	2.2
+1459	1459	main-captions	images	2014	688	none	none	The man poses for a photo in front of the train.	A man stands on a platform in front of a silver train.	3.4
+2596	2605	main-news	MSRpar	2012test	252	none	none	"And about eight to 10 seconds down, I hit.	I was in the water for about eight seconds."	2.200	

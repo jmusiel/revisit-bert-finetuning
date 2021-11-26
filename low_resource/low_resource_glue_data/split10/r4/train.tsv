@@ -1,0 +1,11 @@
+	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+3323	3351	main-news	MSRpar	2012train	617	none	none	The indictment said he attended important meetings to plan the attacks, recruited fellow bombers and coordinated the operation.	Samudra not present in Bangkok, the indictment said, but attended a series of meetings before the attacks, recruiting fellow bombers and coordinating the operation.	3.2
+1628	1628	main-captions	images	2015	393	none	none	A group of people are standing by a window watching something.	A group of people stand and wait to see something.	3.4
+4557	4600	main-news	headlines	2014	312	none	none	Venezuela assembly meets amid Chavez health crisis	Assembly meets amid Chavez crisis	3.4
+820	820	main-captions	MSRvid	2012train	481	none	none	A young boy sings and plays a guitar.	A kid plays the guitar.	3.25
+716	716	main-captions	MSRvid	2012train	316	none	none	A man is firing a shot gun.	A man shoots a shotgun.	5.0
+4442	4485	main-news	headlines	2014	170	none	none	50th anniversary of JFK's death remembered	On 50th anniversary of JFK death, Dallas holds its first memorial	4.0
+3751	3794	main-news	headlines	2013	55	none	none	Aussie surfers find stricken asylum seekers	Mayday: fears for asylum seekers	1.4
+960	960	main-captions	MSRvid	2012train	688	none	none	A woman cuts up a vegetable.	A woman is slicing egg plant.	2.25
+1129	1129	main-captions	images	2014	186	none	none	Parked white double decker bus.	A red and white double decker bus is parked.	4.2
+4494	4537	main-news	headlines	2014	235	none	none	Roadside bombs kill 5 in Afghanistan	Roadside bomb kills 3 policemen in Afghanistan	3.4
