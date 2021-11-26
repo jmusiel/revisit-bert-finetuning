@@ -1,3 +1,5 @@
 **/__pycache__/**
 **.ipynb
 **.png
+**/cached_train_bert-large-uncased_128_**
+**/cached_dev_bert-large-uncased_128_**
