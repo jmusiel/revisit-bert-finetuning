@@ -1,6 +1,0 @@
-	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
-528	528	main-captions	MSRvid	2012train	55	none	none	A person folds a tortilla.	A man folds a tortilla.	3.5
-106	106	main-captions	MSRvid	2012test	155	none	none	A man is playing on his keyboard.	A man is playing a keyboard piano.	4.0
-743	743	main-captions	MSRvid	2012train	356	none	none	The man is pushing the van.	The woman is singing.	0.0
-3948	3991	main-news	headlines	2013	300	none	none	Rick Santorum wins Kansas caucuses	Rick Santorum notches a victory in Kansas caucuses	4.8
-5154	5197	main-news	headlines	2015	612	none	none	Anthony Weiner slips to fourth place in new poll	Weiner falls to fourth in new NYC mayoral poll	5.0

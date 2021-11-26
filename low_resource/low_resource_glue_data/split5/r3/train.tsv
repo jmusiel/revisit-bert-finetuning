@@ -1,6 +1,0 @@
-	index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
-2558	2567	main-news	MSRpar	2012test	198	none	none	The tech-heavy Nasdaq Stock Markets composite index added 1.16 points to 1,504.04.	The Nasdaq Composite index, full of technology stocks, was lately up around 18 points.	2.2
-5681	5724	main-news	headlines	2016	1312	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Hezbollah targets Qaeda gathering along border with Syria	Belarus tightens security along the border with Ukraine	0.0
-1375	1375	main-captions	images	2014	556	none	none	A double decker bus drives on a city street.	A red double decker bus driving down a street.	3.6
-2434	2437	main-forum	deft-forum	2014	437	none	none	I don't think Paul has a shot.	Paul doesn't have a shot.	3.6
-1543	1543	main-captions	images	2015	161	none	none	A dog swimming with a stick in it's mouth.	A dog running with a stick in it's mouth.	2.6
