@@ -4,14 +4,14 @@ import os
 def main():
     # datasets = ["RTE", "MRPC", "STS-B", "CoLA"]
     # models = ["not_debiased", "standard_debiased", "reinit_debiased"]
-    datasets = ["RTE"]
-    models = ["standard_debiased", "reinit_debiased"]
+
+    datasets = ["RTE", "MRPC", "STS-B", "CoLA"]
+    models = ["reinit_debiased"]
     splits = [1000, 100, 10, 5, 1]
-    replicates = range(10)
+    replicates = range(5)
 
-
-    for seed in range(0, 5):
-        for task in datasets:
+    for task in datasets:
+        for seed in range(0, 5):
             for model in models:
                 if model == "not_debiased":
                     reinit = ""
