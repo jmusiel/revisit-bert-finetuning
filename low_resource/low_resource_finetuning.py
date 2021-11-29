@@ -6,22 +6,22 @@ def main():
     # models = ["not_debiased", "standard_debiased", "reinit_debiased"]
 
     datasets = ["RTE", "MRPC", "STS-B", "CoLA"]
-    models = ["reinit_debiased"]
-    splits = [1000, 100, 10, 5, 1]
+    models = ["not_debiased", "standard_debiased"]
+    splits = [1, 5, 10, 100, 1000]
     replicates = range(5)
 
-    for task in datasets:
-        for seed in range(0, 5):
-            for model in models:
-                if model == "not_debiased":
-                    reinit = ""
-                    optimizer = "--use_bertadam"
-                elif model == "standard_debiased":
-                    reinit = ""
-                    optimizer = "--use_torch_adamw"
-                elif model == "reinit_debiased":
-                    reinit = "--reinit_pooler --reinit_layers 5 "
-                    optimizer = "--use_torch_adamw"
+    for model in models:
+        if model == "not_debiased":
+            reinit = ""
+            optimizer = "--use_bertadam"
+        elif model == "standard_debiased":
+            reinit = ""
+            optimizer = "--use_torch_adamw"
+        elif model == "reinit_debiased":
+            reinit = "--reinit_pooler --reinit_layers 5 "
+            optimizer = "--use_torch_adamw"
+        for task in datasets:
+            for seed in range(0, 5):
 
                 for split in splits:
                     split_str = "split"+str(split)
