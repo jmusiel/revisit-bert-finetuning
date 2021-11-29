@@ -1,0 +1,2 @@
+val_pearson,val_spearmanr,val_corr,val_loss,best_val_spearmanr,learning_rate,loss,step,
+0.403894,0.354406,0.379150,3.508484,0.354406,0.000000,2.805801,3.000000,
