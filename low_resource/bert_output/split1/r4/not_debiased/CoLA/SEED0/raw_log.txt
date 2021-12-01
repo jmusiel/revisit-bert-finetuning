@@ -1,0 +1,2 @@
+val_mcc,val_loss,best_val_mcc,learning_rate,loss,step,
+0.084751,0.677918,0.084751,0.000000,1.113552,3.000000,

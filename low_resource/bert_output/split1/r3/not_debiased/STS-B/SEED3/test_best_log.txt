@@ -1,0 +1,2 @@
+test_pearson,test_spearmanr,test_corr,test_loss,test_step
+0.2983,0.4606,0.3794,2.2419,3.0000

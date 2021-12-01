@@ -1,0 +1,2 @@
+test_acc,test_f1,test_acc_and_f1,test_loss,test_step
+0.8341,0.8851,0.8596,0.6040,96.0000

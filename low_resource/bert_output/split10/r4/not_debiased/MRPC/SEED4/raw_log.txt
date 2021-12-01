@@ -1,0 +1,2 @@
+val_acc,val_f1,val_acc_and_f1,val_loss,best_val_acc,learning_rate,loss,step,
+0.699507,0.807571,0.753539,0.667662,0.699507,0.000000,0.608725,3.000000,
