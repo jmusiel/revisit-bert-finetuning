@@ -1,3 +1,21 @@
+# NLP 11711 Final Project 3 and Final Project Repo
+Code repo for project 3 and the final group project for NLP 11711 Fall 2021
+
+Code written for the NLP 11711 project 3 can be found in the [replicate directory](https://github.com/jmusiel/revisit-bert-finetuning/tree/master/replicate) of this codebase.
+Code written for the NLP 11711 final project can be found in the [low_resource_glue branch](https://github.com/jmusiel/revisit-bert-finetuning/tree/low_resource_glue) of this codebase, specifically in the [low_resource directory](https://github.com/jmusiel/revisit-bert-finetuning/tree/low_resource_glue/low_resource).
+ All other code is by the original authors, found below.
+
+All credit for this implementation goes to the original authors of the paper this codebase accompanies: 
+Tianyi Zhang*
+Felix Wu*
+Arzoo Katiyar
+Kilian Q. Weinberger
+Yoav Artzi
+
+*: Equal Contribution
+
+Original README:
+
 # Revisiting Few-sample BERT Fine-tuning 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
