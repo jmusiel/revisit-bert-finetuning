@@ -39,16 +39,16 @@ for dataset in datasets:
 test_metrics = get_test_metrics()
 
 for method in ["reinit_debiased", "not_debiased", "standard_debiased"]:
-    fig, axs = plt.subplots(2, 2, figsize=(20, 20))
+    fig, axs = plt.subplots(1, 4, figsize=(20, 4))
 
-    for dataset, ax in zip(datasets, axs.flatten()):
+    for dataset, ax in zip(datasets, axs):
         test_metric = test_metrics[dataset]
         test_metric = test_metric[0][test_metric[1]]
-        ax.set_title(dataset, size=36)
-        ax.set_ylabel(test_metric, size=32)
-        ax.set_xlabel("Size of Split", size=32)
-        ax.tick_params(axis='x', labelsize=26)
-        ax.tick_params(axis='y', labelsize=26)
+        ax.set_title(dataset, size=20)
+        ax.set_ylabel(test_metric, size=20)
+        ax.set_xlabel("Size of Split", size=20)
+        ax.tick_params(axis='x', labelsize=14)
+        ax.tick_params(axis='y', labelsize=14)
 
         # if dataset == "RTE":
         #     ylimits = [0.5, 0.75]
@@ -70,6 +70,6 @@ for method in ["reinit_debiased", "not_debiased", "standard_debiased"]:
         std = np.array(plot_values[dataset][method]["std"])
         ax.semilogx(x, y, color=color)
         ax.fill_between(x, y - std, y + std, color=fillcolor, alpha=0.5)
-    fig.tight_layout(rect=[0, 0.03, 1, 0.95])
-    fig.suptitle(method.replace("_", " "), fontsize=36)
-    plt.savefig("figure_" + str(method) + "_lowresource.png")
+    fig.tight_layout()
+    fig.suptitle(method, fontsize=20)
+    plt.savefig("figure_" + str(method) + "_lowresource_flat.png")
